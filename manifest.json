@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "XKeeb",
-    "description": "A browser extension to allow for keyboard and mouse use in XBOX cloud gaming.",
+    "name": "Grammarly: Grammar Checker and AI Writing App",
+    "description": "Improve your writing with all-in-one communication assistance—including grammar check, generative AI, and more.",
     "permissions": ["scripting", "activeTab"],
     
     "version": "0",
